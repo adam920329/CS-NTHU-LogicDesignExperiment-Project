@@ -1,7 +1,7 @@
-# CS-NTHU-LogicDesignExperiment-Project
-CS-NTHU-LogicDesignExperiment-Project
+# NTHUEECS-LogicDesignLaboratory -Project
+NTHU-EECS-LogicDesignLaboratory -Project
 
 Notice:
   1. Use Xilinx Vivado to program Verilog
   2. Use FPGA board to process
-NTHU-CS 邏輯設計實驗 期末project：自製野球盤
+NTHU-EECS 邏輯設計實驗 期末project：自製野球盤
